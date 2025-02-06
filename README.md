@@ -7,3 +7,22 @@
 - [COMP1238 Notes](comp1238.md)
 
   
+## Semester Schedule 
+Monday 
+- Fund of Computing Logic 10:00
+- intro to data Management COMP1238 13:00
+
+Tuesday 
+- Intro to Web develop. COMP1234 18:00
+
+Wednesday 
+- Math for comp techniques 12:00
+
+Thursday
+- Math for comp techniques 12:00
+- Intro to Web develop. COMP1234 15:00
+
+Friday 
+- Fund of Computing Logic 10:00
+- intro to data Management COMP1238 13:00
+ 
