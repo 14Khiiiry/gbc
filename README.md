@@ -8,7 +8,7 @@
 
   
 ## Semester Schedule 
-*Monday* 
+**Monday** 
 - Fund of Computing Logic 10:00
 - intro to data Management COMP1238 13:00
 
