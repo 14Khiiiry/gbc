@@ -8,21 +8,21 @@
 
   
 ## Semester Schedule 
-Monday 
+*Monday* 
 - Fund of Computing Logic 10:00
 - intro to data Management COMP1238 13:00
 
-Tuesday 
+*Tuesday* 
 - Intro to Web develop. COMP1234 18:00
 
-Wednesday 
+*Wednesday* 
 - Math for comp techniques 12:00
 
-Thursday
+*Thursday*
 - Math for comp techniques 12:00
 - Intro to Web develop. COMP1234 15:00
 
-Friday 
+*Friday* 
 - Fund of Computing Logic 10:00
 - intro to data Management COMP1238 13:00
  
