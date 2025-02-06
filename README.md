@@ -9,20 +9,20 @@
   
 ## Semester Schedule 
 **Monday** 
-- Fund of Computing Logic 10:00
+- Fund of Computing Logic COMP1236 10:00
 - intro to data Management COMP1238 13:00
 
 **Tuesday** 
 - Intro to Web develop. COMP1234 18:00
 
 **Wednesday** 
-- Math for comp techniques 12:00
+- Math for comp techniques MATH1162 12:00
 
 **Thursday**
-- Math for comp techniques 12:00
+- Math for comp techniques MATH1162 12:00
 - Intro to Web develop. COMP1234 15:00
 
 **Friday** 
-- Fund of Computing Logic 10:00
+- Fund of Computing Logic COMP1236 10:00
 - intro to data Management COMP1238 13:00
  
